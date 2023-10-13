@@ -28,8 +28,6 @@ Foi utilizado a IDE VSCode (OBS: Pode usar qualquer IDE).
 
 Para a instalação do Nodejs: https://nodejs.org/en 
 
-OBS: Foi utilizado a versão v18.16.0 do nodejs.
-
 Também foram utilizado dois dependencias para os teste: mocha(v10.2.0) e chai(v4.3.8)
 
 
