@@ -10,6 +10,7 @@ function calcularIMC(peso, altura){
 function classificacaoIMC(imc){
 
     let classificacao;
+    
     if(imc === 0){
         return false;
     }else{
@@ -26,5 +27,4 @@ function classificacaoIMC(imc){
 
     return classificacao;
 }
-
-export default {calcularIMC, classificacaoIMC}; //Módulo responsável pela exportação da função para a coleta no teste
+module.exports = {calcularIMC, classificacaoIMC}; //Módulo responsável pela exportação da função para a coleta no teste

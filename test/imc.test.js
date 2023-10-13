@@ -1,5 +1,5 @@
-import { expect } from 'chai'; // trabalha com valores de expectativa
-import { calcularIMC, classificacaoIMC } from '../src/imc.js';
+const { expect } = require('chai'); // trabalha com valores de expectativa
+const { calcularIMC, classificacaoIMC } = require('../src/imc.js');
 
 describe('Calculadora de IMC', () => {
 
