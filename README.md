@@ -1,7 +1,8 @@
 [![CI class](https://github.com/FerNagata/Aula8_C214_L1/actions/workflows/ci.yml/badge.svg)](https://github.com/FerNagata/Aula8_C214_L1/actions/workflows/ci.yml)
 
-# Desafio da aula 5
-Foi criado duas funções, uma que calcula o IMC recebendo o peso e altura, e outra função que retorna a classificação de acordo com o imc recebido.
+# Desafio da aula 8
+Foi utilizado o código do desafio 5, onde foi criado duas funções, uma que calcula o IMC recebendo o peso e altura, e outra função que retorna a classificação de acordo com o imc recebido. </br>
+**O objetivo desse desafio é conhecer o Actions do GitHub, foi criado um pipeline onde estaremos utilizando uma máquina virtual Ubuntu, inicialmente será clonado o código para a máquina virtual, depois é intalado o gerenciador de dependências (Node.js) e as dependências necessárias, por fim é executado os testes.
 
 A classificação foi feita de acordo com a seguinte tabela:
 
