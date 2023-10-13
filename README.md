@@ -1,3 +1,5 @@
+[![CI class](https://github.com/FerNagata/Aula8_C214_L1/actions/workflows/ci.yml/badge.svg)](https://github.com/FerNagata/Aula8_C214_L1/actions/workflows/ci.yml)
+
 # Desafio da aula 5
 Foi criado duas funções, uma que calcula o IMC recebendo o peso e altura, e outra função que retorna a classificação de acordo com o imc recebido.
 
